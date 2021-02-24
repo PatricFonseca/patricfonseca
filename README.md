@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Olá devs 👋
 <br/> 🌱 Atualmente estou aprendendo React, Nodejs e Python
-<br/> Bacharel em ciência da computação, atualmente trabalho com Delphi
+<br/> :tophat: Sou Bacharel em ciência da computação, atualmente trabalho com Delphi
 <br/>📫 Como me encontrar: https://www.linkedin.com/in/patric-fonseca-14451299/
 <!--
 Sou um FullStack Developer :computer:
