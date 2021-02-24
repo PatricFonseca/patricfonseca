@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 # Patric Fonseca
 
 ## Olá devs 👋
-🌱 Atualmente estou aprendendo React, Nodejs e Python
-📫 Como me encontrar: https://www.linkedin.com/in/patric-fonseca-14451299/
-Sou apaixonado por resolver problemas utilizando a programação.
+<br/> 🌱 Atualmente estou aprendendo React, Nodejs e Python
+<br/>📫 Como me encontrar: https://www.linkedin.com/in/patric-fonseca-14451299/
+<br/> Sou apaixonado por resolver problemas utilizando a programação.
 <!--
 Sou um FullStack Developer :computer:
 
