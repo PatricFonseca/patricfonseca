@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Patric Fonseca
 
 ## Olá devs 👋
-<br/> 🌱 Atualmente estou aprendendo React, Nodejs e Python
+<br/> 🌱 Atualmente estou estudando React e Python
 <br/> :tophat: Sou Bacharel em ciência da computação, atualmente trabalho com Delphi, React e Python
 <br/>📫 Como me encontrar: https://www.linkedin.com/in/patric-fonseca-14451299/
 <!--
